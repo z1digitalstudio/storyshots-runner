@@ -1,0 +1,5 @@
+build/**/*.js.map
+src
+.gitignore
+tsconfig.json
+webpack.config.js
